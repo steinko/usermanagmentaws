@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: steinko
+Build-Jdk: 15.0.1
+Implementation-Title: usermgmt
+Implementation-Version: 2.1.4.RELEASE
+Implementation-Vendor-Id: com.stacksimplify
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/03-ebcli-h2
+Created-By: Maven Integration for Eclipse
+
